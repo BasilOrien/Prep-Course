@@ -1,0 +1,4 @@
+-Una variable es un "contenedor" de informacion que puede almacenar y mostrar distintos tipos de datos.
+-Llamamos string a las cadenas de texto, las cuales siempre  van entre ("",´´)
+-Son un tipo de objeto invocable, el cual recibe distintos parametros, y nos puede retornar un valor, o realizar cierta accion
+-una declaracion le da un nombre a un objeto, y hace posible almacenar datos de forma que podamos acceder a ellos facilmente.
