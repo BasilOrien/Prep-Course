@@ -2,3 +2,5 @@
 2) una string es una cadena de texto.
 3) una funcion es una forma de dar instrucciones al interprete, que realiza cierta accion, utilizando los argumentos 
 recibidos y que retorna un valor (o no).
+4) las declaraciones if sirven para decidir que parte del codigo se ejecuta tomando en cuenta que se cumpla o no cierta condicion.
+5) los valores booleanos son true y false, y determinan si una expresion es correcta o no y sirven para determinar que acciones se realizan
