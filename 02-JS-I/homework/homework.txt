@@ -1,0 +1,4 @@
+1) una  variable es un "contenedor" al que se le puede asignar un valor al que mas tarde acceder.
+2) una string es una cadena de texto.
+3) una funcion es una forma de dar instrucciones al interprete, que realiza cierta accion, utilizando los argumentos 
+recibidos y que retorna un valor (o no).
