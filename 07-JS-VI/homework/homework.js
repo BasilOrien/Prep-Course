@@ -65,7 +65,8 @@ function filter(array) {
       return x
     }
   })
-  return x
+  return x 
+  
 }
 
 // No modificar nada debajo de esta línea
